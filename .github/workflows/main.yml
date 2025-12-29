@@ -10,6 +10,6 @@ jobs:
 
     steps:
       - name: rivision action
-         run: echo "helloo guyyyssssssssssssssss"
+        run: echo "helloo guysss"
          
                
