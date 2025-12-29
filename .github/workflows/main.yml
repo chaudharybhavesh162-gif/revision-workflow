@@ -1,0 +1,15 @@
+name: revision
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  demo-jobs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: rivision action
+         run: echo "helloo guyyyssssssssssssssss"
+         
+               
